@@ -1,4 +1,4 @@
-#Programación Multinúcleo e extensións SIMD
+# Programación Multinúcleo e extensións SIMD
 
 Indícase a continuación con que apartado se corresponde cada código
 
